@@ -1,4 +1,4 @@
-import{E as p,a as F}from"./pdf-vendor-DvtGwe4T.js";import"./vendor-DoNVu_89.js";import"./react-vendor-CKhWisqP.js";const u=()=>window.invokeNative!==void 0||window.GetParentResourceName!==void 0||window.nuiInvokeNative!==void 0||navigator.userAgent.includes("FiveM")||window.name==="nui",x=()=>{if(document.getElementById("pdf-restriction-overlay"))return;const e=document.createElement("div");e.id="pdf-restriction-overlay",e.style.cssText=`
+import{E as p,a as F}from"./pdf-vendor-CGPuTz7Q.js";import"./vendor-BtbGJpmi.js";import"./react-vendor-CTlESFAR.js";const u=()=>window.invokeNative!==void 0||window.GetParentResourceName!==void 0||window.nuiInvokeNative!==void 0||navigator.userAgent.includes("FiveM")||window.name==="nui",x=()=>{if(document.getElementById("pdf-restriction-overlay"))return;const e=document.createElement("div");e.id="pdf-restriction-overlay",e.style.cssText=`
         position: fixed; inset: 0; background: rgba(0,0,0,0.85);
         display: flex; align-items: center; justify-content: center;
         z-index: 10000; color: white; text-align: center; font-family: 'Inter', sans-serif;
